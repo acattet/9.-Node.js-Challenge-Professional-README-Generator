@@ -13,7 +13,8 @@
   ## [Usage](#table-of-contents)
   
   
-  ![Untitled_ May 31, 2022 11_18 AM (1)](https://user-images.githubusercontent.com/98857382/171210327-b8097852-bfe0-4335-bcc4-76088869b333.gif)
+  ![Untitled_ May 31, 2022 11_18 AM (2)](https://user-images.githubusercontent.com/98857382/171210893-f1d4de19-1606-4e22-8148-ea309dfd5130.gif)
+
 
   
   Once the code has been installed with the correct packages, initialize the code by typing "node index.js" in the terminal. This will lead to the questions displaying for you to answer.
