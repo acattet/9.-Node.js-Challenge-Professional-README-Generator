@@ -18,6 +18,9 @@
 
   
   Once the code has been installed with the correct packages, initialize the code by typing "node index.js" in the terminal. This will lead to the questions displaying for you to answer.
+  
+  Full code Demo
+  https://youtu.be/FIBbci88ThU
 
   ## [Questions](#table-of-contents)
   To contact or see my work, please refer to the following links:
